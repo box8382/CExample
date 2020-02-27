@@ -1,0 +1,5 @@
+﻿  subject.c
+D:\CProjects\subject\subject\subject.c(37,13): warning C4098:  'main': 'void' 함수에서 값을 반환하고 있습니다.
+D:\CProjects\subject\subject\subject.c(49,14): warning C4098:  'main': 'void' 함수에서 값을 반환하고 있습니다.
+D:\CProjects\subject\subject\subject.c(54,14): warning C4098:  'main': 'void' 함수에서 값을 반환하고 있습니다.
+  subject.vcxproj -> D:\CProjects\subject\Debug\subject.exe

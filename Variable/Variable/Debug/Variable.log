@@ -1,0 +1,2 @@
+﻿  Variable.c
+  D:\CProjects\Variable\Variable\Variable.c(11) : warning C4700: 초기화되지 않은 'a' 지역 변수를 사용했습니다.
